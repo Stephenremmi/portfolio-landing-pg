@@ -1,0 +1,31 @@
+#background-image {
+  float: left;
+}
+
+.sidebar{
+  float: left;
+  width: 50%;
+  background-color:
+  rgb(230, 230, 230);
+  margin-left: 6px;
+}
+.header{
+  color: yellow-green;
+  font-size: 460px
+  font-family: fantasy;
+  font-style: oblique;
+}
+body{
+  background-color:
+  rgb(255, 245, 217);
+}
+#contacts{
+  color:green
+  float:right;
+}
+.links{
+  float;right;
+}
+head{
+  float: right;
+}
