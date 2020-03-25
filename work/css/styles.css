@@ -1,0 +1,14 @@
+#links{
+  float: right;
+}
+#work{
+  color: green;
+  float: right;
+}
+.test-box{
+  align-items: center;
+  background-color: salmon;
+}
+body{
+  background-color: rgb(230, 230, 230);
+}

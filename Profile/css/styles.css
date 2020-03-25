@@ -1,0 +1,41 @@
+body{
+  font-family:
+  cursive;
+ }
+ .photo-gallery{
+   background: rgb(255, 254, 217);
+   padding:6px;
+ }
+ .photo{
+   width: 480px;
+   border: 2px;
+   margin: 20px;
+   height: 460px;
+ }
+ .current-page{
+   color: green
+ }
+ #links{
+   float: right;
+ }
+.sporty{
+  float: right;
+  height: 600;
+ }
+ .penalty{
+   float: left;
+ }
+.deadly{
+  float: left;
+  height: 460px;
+}
+.friends{
+  float: right;
+  margin-top: 50px;
+}
+sc-friends{
+  float: left;
+  margin-top: 10px;
+  margin-bottom: 20px;
+  margin-left: 20px;
+}
