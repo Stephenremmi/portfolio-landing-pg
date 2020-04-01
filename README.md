@@ -1,5 +1,8 @@
-# portfolio-landing-pg
-Week 1's IP
-Author:Stephen Remmi
+# Portfolio-landing-page
+Week 1s IP.
+
+# Author:
+Stephen Remmi
+
 # Project description
 
