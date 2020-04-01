@@ -10,7 +10,7 @@ Stephen Remmi
 + Host server is Github.com
 
 # Project set-up Instructions
-+ The current page to my gh-pages link is a section of About me.
++ The current page of my gh-pages link opens to the About me page.
 + It contains links to my work and contacts page.
 + The work page includes links to my projects and brief descriptions of the projects.
 
