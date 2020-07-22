@@ -1,10 +1,11 @@
 # Portfolio-landing-page
-Week 1s IP.
+My portfolio purely made from HTML and CSS basics
 
 # Author:
 Stephen Remmi
 
 # Project description:
+
 + An Independent project about me with background,interests and hobbies section.
 + Language used is HTML 5 and CSS3.
 + Host server is Github.com
