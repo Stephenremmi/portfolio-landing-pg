@@ -14,4 +14,5 @@ Stephen Remmi
 + It contains links to my work and contacts page.
 + The work page includes links to my projects and brief descriptions of the projects.
 
+# [License](https://github.com/Stephenremmi/portfolio-landing-pg/blob/master/LICENSE)
 
