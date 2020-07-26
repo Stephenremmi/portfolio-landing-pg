@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 *{
     margin: 0px;
     padding: 0px;
@@ -137,4 +138,39 @@ footer.footer .social-link:hover {
 #links{
   float: right;
   color: white;
+=======
+.image
+{
+  float:left;
+}
+.Background
+{
+  background-color:
+   lightgreen; font-size: 30px
+}
+#links {
+  float: right;
+}
+.Hobbies
+{
+  background-color:
+  lightblue; font-size: 30px
+}
+.Interests
+{
+  background-color:
+  salmon;font-size: 30px
+}
+
+.About
+{
+  color: green;
+}
+head{
+  float: right;
+}
+.header{
+  background-color: rgb(230, 230, 230);
+  font-size: 40px;
+>>>>>>> 1f9783f89b24609ddd09723d9522b860eec84acf
 }
