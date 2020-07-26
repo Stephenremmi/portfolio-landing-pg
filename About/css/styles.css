@@ -1,0 +1,31 @@
+
+.Background
+{
+  background-color:
+   lightgreen; font-size: 30px
+}
+.Hobbies
+{
+  background-color:
+  lightblue; font-size: 30px
+}
+.Interests
+{
+  background-color:
+  salmon;font-size: 30px
+}
+
+#links {
+  float: right;
+
+}
+.About{
+  color: green;
+}
+head{
+  float: right;
+}
+.header{
+  background-color: rgb(230, 230, 230);
+  font-size: 40px;
+}
