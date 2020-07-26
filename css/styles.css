@@ -1,0 +1,140 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+html, body{
+    overflow-x: hidden;
+}
+
+body{
+    background-image: url(../images/portfolio1.jpeg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-color: rgb(0,0,0,.6);
+    background-blend-mode: overlay;
+    color: white;
+}
+
+.header{
+    text-align: center;
+    padding-top: 200px;
+}
+
+h1{
+    font-family: 'Merriweather', serif;
+    font-size: 100px;
+}
+
+hr{
+    height: 1px;
+    background-color: white;
+    border: none;
+    width: 60%;
+    display: inline-block;
+    text-align: center;
+}
+
+.font{
+    font-family: 'Pacifico', cursive;
+    font-size: 20px;
+}
+
+
+.card2{
+    padding: 20px;
+    background-color: rgba(255, 0, 0, 0.150);
+    text-align: center;
+}
+
+.number{
+    background-color: transparent;
+    border-color: white;
+    color: white;
+    text-align: center;
+    width: 70px;
+}
+.header2{
+  text-align: center;
+}
+.content{
+  padding: 20px;
+}
+
+h3{
+  font-weight: 900;
+}
+.fa-2x{
+  font-size:5em !important;
+}
+.col-md-3{
+overflow-y: auto;
+height: 90vh; /* NEW */
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+/* Float four columns side by side */
+.col-md-4 {
+  float: left;
+  width: 25%;
+  padding: 0 10px;
+}
+
+/* Remove extra left and right margins, due to padding in columns */
+.row {margin: 0 -5px;}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/* Style the counter cards */
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2); /* this adds the "card" effect */
+  padding: 16px;
+  text-align: center;
+  background-color: #f1f1f1;
+}
+
+/* Responsive columns - one column layout (vertical) on small screens */
+@media screen and (max-width: 600px) {
+  .col-md-4 {
+    width: 100%;
+    display: block;
+    margin-bottom: 20px;
+  }
+}
+footer.footer {
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+}
+footer.footer .social-link {
+  display: block;
+  height: 4rem;
+  width: 4rem;
+  line-height: 4.3rem;
+  font-size: 1.5rem;
+  background-color: #1D809F;
+  transition: background-color 0.15s ease-in-out;
+  box-shadow: 0 3px 3px 0 rgba(0, 0, 0, 0.1);
+}
+footer.footer .social-link:hover {
+  background-color: #155d74;
+  text-decoration: none;
+}
+#links{
+  float: right;
+  color: white;
+}
